@@ -1,0 +1,15 @@
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/bin/Debug/net7.0/zadacha_13
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/bin/Debug/net7.0/zadacha_13.deps.json
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/bin/Debug/net7.0/zadacha_13.runtimeconfig.json
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/bin/Debug/net7.0/zadacha_13.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/bin/Debug/net7.0/zadacha_13.pdb
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.csproj.AssemblyReference.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.GeneratedMSBuildEditorConfig.editorconfig
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.AssemblyInfoInputs.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.AssemblyInfo.cs
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.csproj.CoreCompileInputs.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/refint/zadacha_13.dll
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.pdb
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/zadacha_13.genruntimeconfig.cache
+/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/Debug/net7.0/ref/zadacha_13.dll

@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha_13/zadacha_13.csproj",
+      "projectUniqueName": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/zadacha_13.csproj",
       "projectName": "zadacha_13",
-      "projectPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha_13/zadacha_13.csproj",
+      "projectPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/zadacha_13.csproj",
       "packagesPath": "/Users/aleksejparasnenko/.nuget/packages/",
-      "outputPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha_13/obj/",
+      "outputPath": "/Users/aleksejparasnenko/Desktop/C#_seminaru/C#_homeWork_seminar2/zadacha15/obj/",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "/Users/aleksejparasnenko/.nuget/NuGet/NuGet.Config"
